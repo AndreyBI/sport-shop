@@ -1,0 +1,5 @@
+1	Орион	2	Энтузиастов, 12	89456123789
+2	Stels	3	New Street, 243	25632546565
+3	Real Madrid	5	Beach Streer, 83	59422789156
+4	Science in Sport	4	Science Street, 47	25467291854
+5	Спортмастер	1	Мира, 13	89475615891
