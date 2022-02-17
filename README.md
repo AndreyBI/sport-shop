@@ -10,8 +10,8 @@ ________
 
 Table of contents
 1. [CSS files](css)
-    *. [cs-select](cs-select)
-    *. [cs-skin-elastic]()
+    * [cs-select](cs-select)
+    * [cs-skin-elastic]()
     *. [normalize]()
     *. [style]()
     *. [styleMTB]()
