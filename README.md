@@ -6,11 +6,11 @@ This website is being created for coursework on databases. The topic of course i
 ________
 
 Table of contents
-1. [Repositories](repositories)
+1. [Repositories](#repositories)
 2. [CSS files](css)
 3. [Files with data for database](data)
 4. [JS files](js)
 5. [PHP files](php)
 ________
 
-<a name="repositories">Repositories</a>
+<a id="repositories">Repositories</a>
