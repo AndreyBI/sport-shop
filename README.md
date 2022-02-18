@@ -7,6 +7,7 @@ This website is being created for coursework on databases. The topic of course i
 
 This project have not a beautiful structure because it is still in the process of being created. That's why some function may be repeated. 
 ________
+P.S. The links to the files are in their description of the folders in which these files are located
 
 Table of contents
 1. [CSS files](#css) ([link on files in project](css))
@@ -30,7 +31,7 @@ Table of contents
     * scriptMTB
     * scriptSnow
     * selectFX
-4. [PHP files](#php) ([link on files in project]())
+4. [PHP files](#php) ([link on files in project](https://github.com/AndreyBI/sport-shop))
     * action-create
     * action-search
     * create
@@ -41,7 +42,7 @@ Table of contents
     * profile
     * profile-user
     * run
-5. [Other files](#other) ([link on files in project]())
+5. [Other files](#other) ([link on files in project](https://github.com/AndreyBI/sport-shop))
     * htaccess
     * Apache_2.4-PHP_7.2-7.4_vhost
 ________
