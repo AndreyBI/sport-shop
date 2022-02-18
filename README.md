@@ -62,6 +62,15 @@ ________
 course.sql - SQL for creating table, filling them with data. Also there are links between table.
 ![Creating and fulling table](https://user-images.githubusercontent.com/70945623/154664835-cac25388-d6fc-4c0d-a2cb-7df994268a8f.png)
 
-
 ## <a id="js"> JS files </a>
-
+| Name file                   | Describe                                            |
+|----------------------------:|:----------------------------------------------------|
+| classie                     | I don't remember :sweat_smile:                      |
+| jquery.maskedinput.min      | Mask for entering a phone number                    |
+| jquery.mousewheel.min       | JQ for work with mouse wheel                        |
+| jquery-3.5.1.min            | Usuall jq                                           |
+| jquery-ui-1.10.4.custom.min | Custom jq                                           |
+| script                      | Sctipt for main page (index.php)                    |
+| scriptMTB                   | Script for page about bicycles (mtb.php)            |
+| scriptSnow                  | Script for page about snowboard and ski (snow.php)  |
+| selectFX                    | I don't remember :sweat_smile:                      |
