@@ -50,7 +50,7 @@ ________
 ## <a id="css"> CSS-files </a>
 | Name file                            | Describe                                                                                 |
 |-------------------------------------:|:-----------------------------------------------------------------------------------------|
-| [cs-select](css/cs-select)               |
+| [cs-select](css/cs-select.css)               |
 | [cs-skin-elastic](cs-skin-elastic)   |
 | [normalize](normalize)               | Makes browsers render all elements more consistently and in line with modern standards   |
 | [style](style)                       | Style for main page (index.php)                                                          |
