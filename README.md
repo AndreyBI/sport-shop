@@ -9,8 +9,8 @@ This project have not a beautiful structure because it is still in the process o
 ________
 
 Table of contents
-1. [CSS files](css)
-    * [cs-select](cs-select)
+1. [CSS files](#css)
+    * [cs-select](#cs-select)
     * [cs-skin-elastic]()
     * [normalize]()
     * [style]()
@@ -18,7 +18,7 @@ Table of contents
     * [styleProfile]()
     * [styleRun]()
     * [styleSnow]()
-2. [Files with data for database](data)
+2. [Files with data for database](#data)
     * [cities]()
     * [deliveries]()
     * [existence]()
@@ -40,7 +40,7 @@ Table of contents
     * [scriptMTB]()
     * [scriptSnow]()
     * [selectFX]()
-4. [PHP files](php)
+4. [PHP files](#php)
     * [action-create]()
     * [action-search]()
     * [create]()
@@ -51,7 +51,7 @@ Table of contents
     * [profile]()
     * [profile-user]()
     * [run]()
-5. [Other files](other)
+5. [Other files](#other)
     * htaccess()
     * Apache_2.4-PHP_7.2-7.4_vhost()
 ________
