@@ -60,6 +60,8 @@ ________
 
 ## <a id="data"> Files with data for database </a>
 course.sql - SQL for creating table, filling them with data. Also there are links between table.
+![Creating and fulling table](https://user-images.githubusercontent.com/70945623/154664835-cac25388-d6fc-4c0d-a2cb-7df994268a8f.png)
+
 
 ## <a id="js"> JS files </a>
 
