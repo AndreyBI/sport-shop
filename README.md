@@ -9,7 +9,7 @@ This project have not a beautiful structure because it is still in the process o
 ________
 P.S. The links to the files are in their description of the folders in which these files are located
 
-Table of contents
+## Table of contents
 1. [CSS files](#css) ([link on files in project](css))
     * cs-select
     * cs-skin-elastic
