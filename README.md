@@ -19,17 +19,7 @@ Table of contents
     * styleRun
     * styleSnow
 2. [Files with data for database](#data)
-    * cities
-    * deliveries
-    * existence
-    * markets
-    * people
-    * posts
-    * products
-    * providers
-    * sections
-    * structure
-    * workers
+    * course.sql
 3. [JS files](js)
     * classie
     * jquery.maskedinput.min
@@ -58,7 +48,7 @@ ________
 
 <a id="css"> CSS-files </a>
 | Name file         | Describe                                                                                 |
-| -----------------:|:-----------------------------------------------------------------------------------------|
+|------------------:|:-----------------------------------------------------------------------------------------|
 | cs-select         |
 | cs-skin-elastic   |
 | normalize         | Makes browsers render all elements more consistently and in line with modern standards   |
@@ -69,4 +59,7 @@ ________
 | styleSnow         | Style for page about snowboard and ski (snow.php)                                        |
 
 <a id="data"> Files with data for database </a>
-Name file         |
+course.sql - SQL for creating table, filling them with data. Also there are links between table.
+
+<a id="js"> JS files </a>
+
