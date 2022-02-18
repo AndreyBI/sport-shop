@@ -9,7 +9,7 @@ This project have not a beautiful structure because it is still in the process o
 ________
 
 Table of contents
-1. [CSS files](#css)
+1. [CSS files](#css) ([link on files in project](css))
     * cs-select
     * cs-skin-elastic
     * normalize
@@ -18,9 +18,9 @@ Table of contents
     * styleProfile
     * styleRun
     * styleSnow
-2. [Files with data for database](#data)
+2. [Files with data for database](#data) ([link on files in project](data))
     * course.sql
-3. [JS files](js)
+3. [JS files](#js) ([link on files in project](js))
     * classie
     * jquery.maskedinput.min
     * jquery.mousewheel.min
@@ -30,7 +30,7 @@ Table of contents
     * scriptMTB
     * scriptSnow
     * selectFX
-4. [PHP files](#php)
+4. [PHP files](#php) ([link on files in project]())
     * action-create
     * action-search
     * create
@@ -41,7 +41,7 @@ Table of contents
     * profile
     * profile-user
     * run
-5. [Other files](#other)
+5. [Other files](#other) ([link on files in project]())
     * htaccess
     * Apache_2.4-PHP_7.2-7.4_vhost
 ________
