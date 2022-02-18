@@ -46,7 +46,7 @@ Table of contents
     * Apache_2.4-PHP_7.2-7.4_vhost
 ________
 
-<a id="css"> CSS-files </a>
+## <a id="css"> CSS-files </a>
 | Name file         | Describe                                                                                 |
 |------------------:|:-----------------------------------------------------------------------------------------|
 | cs-select         |
@@ -58,8 +58,8 @@ ________
 | styleRun          | Style for page about run achievment (run.php)                                            |
 | styleSnow         | Style for page about snowboard and ski (snow.php)                                        |
 
-<a id="data"> Files with data for database </a>
+## <a id="data"> Files with data for database </a>
 course.sql - SQL for creating table, filling them with data. Also there are links between table.
 
-<a id="js"> JS files </a>
+## <a id="js"> JS files </a>
 
