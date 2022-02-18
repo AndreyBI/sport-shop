@@ -4,7 +4,7 @@
 
 ________
 This website is being created for coursework on databases. The topic of course is development of a database for a sports shop. Webistes is being created by using html, css, js (jquery, ajax), php.
----
+***
 This project have not a beautiful structure because it is still in the process of being created. That's why some function may be repeated. 
 ________
 
