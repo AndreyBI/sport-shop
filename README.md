@@ -57,16 +57,16 @@ Table of contents
 ________
 
 <a id="css"> CSS-files </a>
-Name file         | Describe 
----------------------------------------
-cs-select         |
-cs-skin-elastic   |
-normalize         |
-style             | Style for main page (index.php)
-styleMTB          | Style for page about bicycles (mtb.php)
-styleProfile      | Style for page workers' profile (profile.php)
-styleRun          | Style for page about run achievment (run.php)
-styleSnow         | Style for page about snowboard and ski (snow.php)
+| Name file         | Describe                                                                                 |
+| -----------------:|:-----------------------------------------------------------------------------------------|
+| cs-select         |
+| cs-skin-elastic   |
+| normalize         | Makes browsers render all elements more consistently and in line with modern standards   |
+| style             | Style for main page (index.php)                                                          |
+| styleMTB          | Style for page about bicycles (mtb.php)                                                  |
+| styleProfile      | Style for page workers' profile (profile.php)                                            |
+| styleRun          | Style for page about run achievment (run.php)                                            |
+| styleSnow         | Style for page about snowboard and ski (snow.php)                                        |
 
 <a id="data"> Files with data for database </a>
 Name file         |
