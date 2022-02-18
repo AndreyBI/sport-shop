@@ -77,15 +77,15 @@ ________
 | [selectFX](js/selectFX.js)                                         | I don't remember :sweat_smile:                      |
 
 ## <a id="php"> PHP files </a>
-| Name file                                                          | Describe                                            |
-|-------------------------------------------------------------------:|:----------------------------------------------------|
-| [action-create](https://github.com/AndreyBI/sport-shop/main/action-create.php)
-| [action-search](https://github.com/AndreyBI/sport-shop)
-| [create](https://github.com/AndreyBI/sport-shop)
-| [index](https://github.com/AndreyBI/sport-shop)
-| [login](https://github.com/AndreyBI/sport-shop)
-| [logout](https://github.com/AndreyBI/sport-shop)
-| [mtb](https://github.com/AndreyBI/sport-shop)
-| [profile](https://github.com/AndreyBI/sport-shop)
-| [profile-user](https://github.com/AndreyBI/sport-shop)
-| [run](https://github.com/AndreyBI/sport-shop)
+| Name file                                                                            | Describe                                            |
+|-------------------------------------------------------------------------------------:|:----------------------------------------------------|
+| [action-create](https://github.com/AndreyBI/sport-shop/blob/main/action-create.php)  |
+| [action-search](https://github.com/AndreyBI/sport-shop/blob/main/action-search.php)  |
+| [create](https://github.com/AndreyBI/sport-shop/blob/main/create.php)                |
+| [index](https://github.com/AndreyBI/sport-shop/blob/main/index.php)                  |
+| [login](https://github.com/AndreyBI/sport-shop/blob/main/login.php)                  |
+| [logout](https://github.com/AndreyBI/sport-shop/blob/main/logout.php)                |
+| [mtb](https://github.com/AndreyBI/sport-shop/blob/main/mtb.php)                      |
+| [profile](https://github.com/AndreyBI/sport-shop/blob/main/profile.php)              |
+| [profile-user](https://github.com/AndreyBI/sport-shop/blob/profile-user.php)         |
+| [run](https://github.com/AndreyBI/sport-shop/blob/main/run.php)                      |
