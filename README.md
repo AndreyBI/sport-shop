@@ -79,13 +79,13 @@ ________
 ## <a id="php"> PHP files </a>
 | Name file                                                                            | Describe                                            |
 |-------------------------------------------------------------------------------------:|:----------------------------------------------------|
-| [action-create](https://github.com/AndreyBI/sport-shop/blob/main/action-create.php)  |
-| [action-search](https://github.com/AndreyBI/sport-shop/blob/main/action-search.php)  |
-| [create](https://github.com/AndreyBI/sport-shop/blob/main/create.php)                |
-| [index](https://github.com/AndreyBI/sport-shop/blob/main/index.php)                  |
-| [login](https://github.com/AndreyBI/sport-shop/blob/main/login.php)                  |
-| [logout](https://github.com/AndreyBI/sport-shop/blob/main/logout.php)                |
-| [mtb](https://github.com/AndreyBI/sport-shop/blob/main/mtb.php)                      |
-| [profile](https://github.com/AndreyBI/sport-shop/blob/main/profile.php)              |
-| [profile-user](https://github.com/AndreyBI/sport-shop/blob/profile-user.php)         |
-| [run](https://github.com/AndreyBI/sport-shop/blob/main/run.php)                      |
+| [action-create](https://github.com/AndreyBI/sport-shop/blob/main/action-create.php)  | Creating new workers 
+| [action-search](https://github.com/AndreyBI/sport-shop/blob/main/action-search.php)  | Searching workers
+| [create](https://github.com/AndreyBI/sport-shop/blob/main/create.php)                | HTML for creating new workers
+| [index](https://github.com/AndreyBI/sport-shop/blob/main/index.php)                  | The main page
+| [login](https://github.com/AndreyBI/sport-shop/blob/main/login.php)                  | Log in personal page (account)
+| [logout](https://github.com/AndreyBI/sport-shop/blob/main/logout.php)                | Log out of your account
+| [mtb](https://github.com/AndreyBI/sport-shop/blob/main/mtb.php)                      | Page about bicycle
+| [profile](https://github.com/AndreyBI/sport-shop/blob/main/profile.php)              | Account page (personal page) of workers
+| [profile-user](https://github.com/AndreyBI/sport-shop/blob/profile-user.php)         | It will be personal page of clients
+| [run](https://github.com/AndreyBI/sport-shop/blob/main/run.php)                      | Page about runnig equipment
