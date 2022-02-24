@@ -66,7 +66,7 @@ ________
 ## <a id="js"> JS files </a>
 | Name file                                                          | Describe                                            |
 |-------------------------------------------------------------------:|:----------------------------------------------------|
-| [classie](js/classie.js)                                           | I don't remember :sweat_smile:                      |
+| [classie](js/classie.js)                                           |                                                     |
 | [jquery.maskedinput.min](js/jquery.maskedinput.min.js)             | Mask for entering a phone number                    |
 | [jquery.mousewheel.min](js/jquery.mousewheel.min.js)               | JQ for work with mouse wheel                        |
 | [jquery-3.5.1.min](js/jquery-3.5.1.min.js)                         | Usuall jq                                           |
@@ -74,7 +74,7 @@ ________
 | [script](js/script.js)                                             | Sctipt for main page (index.php)                    |
 | [scriptMTB](js/scriptMTB.js)                                       | Script for page about bicycles (mtb.php)            |
 | [scriptSnow](js/scriptSnow.js)                                     | Script for page about snowboard and ski (snow.php)  |
-| [selectFX](js/selectFX.js)                                         | I don't remember :sweat_smile:                      |
+| [selectFX](js/selectFX.js)                                         |                                                     |
 
 ## <a id="php"> PHP files </a>
 | Name file                                                                            | Describe                                            |
